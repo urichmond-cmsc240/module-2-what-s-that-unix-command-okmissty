@@ -35,7 +35,7 @@ rm
 ![img4](imgs/img4.png)
 
 ```
-mv
+touch
 ```
 --- 
 
@@ -60,6 +60,6 @@ find
 
 ```
 chmod
-cat necromancer.sh
+./necromancer.sh
 ```
 --- 
